@@ -1,0 +1,6 @@
+Ubuntu Server 22.04 LTS or later
+ISC DHCP Server
+Netplan
+systemd
+Linux Terminal
+VMware Workstation or VirtualBox
